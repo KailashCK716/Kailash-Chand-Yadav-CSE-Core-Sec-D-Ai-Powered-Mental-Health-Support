@@ -1,11 +1,11 @@
-# Kailash-Chand-Yadav-CSE-Core-Sec-D-AI-Powered-Mental-Health-Support
+# Kailash Chand Yadav CSE(Core) Sec - D
 
 **Project Title:** Ai Powered Mental Health Support
  
 **Project ID:** Y1-2024-25-G65  
 
 
-**Team Members:** [Kailash Chand Yadav](https://github.com/KailashCK716), [Abhinav Adarsh](https://github.com/abhinavgautam08), [Prince Kumar](https://github.com/princekr013), Rahul Yadav 
+**Team Members:** [Kailash Chand Yadav](https://github.com/KailashCK716), [Abhinav Adarsh](https://github.com/abhinavgautam08), [Prince Kumar](https://github.com/princekr013), [Rahul Yadav](https://github.com/rahulydv027) 
  
 **Project Description:** This project is a Ai Powered Mental Health Support designed to provide supportive, therapeutic, and coaching conversations using AI. It adapts its responses based on the user's detected emotion and selected personality (supportive friend, therapist, or coach).
 
