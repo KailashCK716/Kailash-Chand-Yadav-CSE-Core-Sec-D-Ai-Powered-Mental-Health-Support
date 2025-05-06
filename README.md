@@ -27,13 +27,19 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/
-   cd mental-health-chatbot
+   git clone https://github.com/KailashCK716/Kailash-Chand-Yadav-CSE-Core-Sec-D-Ai-Powered-Mental-Health-Support.git
    ```
 2. Install dependencies:
    ```bash
    npm install
    ```
+3. Run This:
+   ```bash
+      npm install --legacy-peer-deps
+   ```
+
+
+
 
 ### Running the App
 - Development mode:
