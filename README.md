@@ -1,4 +1,4 @@
-# Kailash-Chand-Yadav-CSE-Core-Sec-D-AI-Mental-Health-Support
+# Kailash-Chand-Yadav-CSE-Core-Sec-D-AI-Powered-Mental-Health-Support
 
 **Project Title:** Ai Powered Mental Health Support
  
